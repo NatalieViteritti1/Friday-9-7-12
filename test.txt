@@ -1,0 +1,30 @@
+	<!DOCTYPE HTML>
+	<html>
+	<!--	Natalie A.Viteritti
+		Computer Science 120
+		Github in "Dan Lab" -->
+	<head> 
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta name="author"		content="Natalie A Viteritti" />
+		<title>GitHub in the Dan Lab 9-7-12</title>
+		<style>
+			.bottom {font-weight: bold; color: "red";}
+			.heading {font-style: italic; font-family: "papyrus"; font-size: "12pts";}
+		</style>
+	</head>
+	<body>
+		Welcome to my webpage!!!
+		<p class= "heading">
+			<h1>All About Me</h1>
+			<ul>
+				<li>Name: Natalie Viteritti</li>
+				<li>Major: Math/Secondary Education</li>
+				<li>Hometown: East Northport</li>
+				<li>Interests: Reading, Hanging out with Friends, Zumba</li>
+			</ul>
+		</p>
+		<p class= "bottom">
+			< a href="http://validator.w3.org/check?uri=referer">HTML5</a>
+		</p>
+	</body>
+	</html>
